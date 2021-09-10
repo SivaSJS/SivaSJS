@@ -11,7 +11,7 @@
 
 - You can reach me here --> **sivatvr7@gmail.com**
 
-- ⚡ Fun fact **There is no Fun fact about is my actual Fun fact!**
+- ⚡ Fun fact **There is no Fun fact is my actual Fun fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
