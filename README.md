@@ -4,13 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/sivas_1999" target="blank"><img src="https://img.shields.io/twitter/follow/sivas_1999?logo=twitter&style=for-the-badge" alt="sivas_1999" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SivaSJS?tab=repositories](https://github.com/SivaSJS?tab=repositories)
 
 - You can reach me here --> **sivatvr7@gmail.com**
-
-- ⚡ Fun fact **There is no Fun fact is my actual Fun fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
