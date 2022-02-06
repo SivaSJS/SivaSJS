@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">A front-end developer from India</h3>
+<h3 align="center">A Web developer from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/sivas_1999" target="blank"><img src="https://img.shields.io/twitter/follow/sivas_1999?logo=twitter&style=for-the-badge" alt="sivas_1999" /></a> </p>
